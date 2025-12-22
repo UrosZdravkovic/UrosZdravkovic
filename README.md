@@ -32,8 +32,7 @@ Whether it's a React app, a Telegram bot, or an n8n workflow that syncs data acr
 **Automation & AI**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=black)
 
 ---
 
@@ -61,8 +60,8 @@ Minimalistic learning session tracker with data visualization, built with React,
 
 ## 🌱 Currently Learning
 
+- React & TypeScript
 - Advanced n8n workflows with AI agents
-- Custom n8n node development
 - System architecture for scalable automations
 
 ---
@@ -70,10 +69,4 @@ Minimalistic learning session tracker with data visualization, built with React,
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uros-zdravkovic/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uros.zdravkovic1998@gmail.com)
 
----
-
-<p align="center">
-  <i>"Every support ticket represents a process that could potentially be automated."</i>
-</p>
