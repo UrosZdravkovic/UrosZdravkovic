@@ -2,8 +2,7 @@
 
 **Frontend Developer | Automation Engineer | n8n Enthusiast**
 
-After years in customer support, I started automating the processes that created tickets in the first place. Now I build React apps, n8n workflows, and AI-powered solutions that eliminate repetitive work.
----
+Frontend developer working with React and TypeScript. I got into automation because it felt like the most practical skill I could add—why build an app if the processes around it are still manual? Now I create both the interfaces users see and the workflows running behind the scenes.---
 
 ## 🚀 Profile
 
@@ -11,6 +10,16 @@ I've gone from troubleshooting appliances and SEO tools to building the automati
 Whether it's a React frontend, a Supabase backend, or an n8n workflow that syncs data and sends Slack updates automatically-I love turning "we do this manually every week" into a one-click solution.
 
 ---
+
+## 🏆 Key Strengths & Focus
+
+- **Frontend Development**: Building responsive web apps with React, TypeScript, and modern UI libraries like Tailwind CSS and Radix UI.
+
+- **Workflow Automation**: Designing n8n workflows that connect APIs, sync databases, and eliminate manual processes—turning hours of work into one-click solutions.
+
+- **AI Integration**: Creating AI-powered tools using OpenAI and LangChain nodes in n8n—from Telegram bots that analyze meal photos to agents that route tasks automatically.
+
+- **Backend & Databases**: Working with Supabase and Firebase for authentication, real-time data, and API integrations.
 
 ## 🛠️ Tech Stack
 
