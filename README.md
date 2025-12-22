@@ -2,15 +2,13 @@
 
 **Frontend Developer | Automation Engineer | n8n Enthusiast**
 
-> After years of handling support tickets, I started automating the processes that created them. Now I build workflows that eliminate repetitive work and apps that solve real problems.
-
+After years in customer support, I started automating the processes that created tickets in the first place. Now I build React apps, n8n workflows, and AI-powered solutions that eliminate repetitive work.
 ---
 
 ## 🚀 Profile
 
-I've worn many hats—starting from customer support, moving into frontend development, and now diving deep into workflow automation. My passion lies in **building tools that save time** and **connecting systems** so teams can focus on what matters most.
-
-Whether it's a React app, a Telegram bot, or an n8n workflow that syncs data across platforms—I love turning manual processes into automated solutions.
+I've gone from troubleshooting appliances and SEO tools to building the automations that prevent issues before they happen. My customer support background taught me to understand what users actually need-my technical skills let me build it.
+Whether it's a React frontend, a Supabase backend, or an n8n workflow that syncs data and sends Slack updates automatically-I love turning "we do this manually every week" into a one-click solution.
 
 ---
 
