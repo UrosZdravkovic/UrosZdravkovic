@@ -2,7 +2,7 @@
 
 **Frontend Developer | Automation Engineer | n8n Enthusiast**
 
-Frontend developer working with React and TypeScript. I got into automation because it felt like the most practical skill I could add—why build an app if the processes around it are still manual? Now I create both the interfaces users see and the workflows running behind the scenes.---
+Frontend developer working with React and TypeScript. I got into automation because it felt like the most practical skill I could add—why build an app if the processes around it are still manual? Now I create both the interfaces users see and the workflows running behind the scenes.
 
 ## 🚀 Profile
 
