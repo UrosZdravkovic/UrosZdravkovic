@@ -32,7 +32,7 @@ Whether it's a React app, a Telegram bot, or an n8n workflow that syncs data acr
 **Automation & AI**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=black)
+
 
 ---
 
