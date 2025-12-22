@@ -15,9 +15,9 @@ Whether it's a React frontend, a Supabase backend, or an n8n workflow that syncs
 
 - **Frontend Development**: Building responsive web apps with React, TypeScript, and modern UI libraries like Tailwind CSS and Radix UI.
 
-- **Workflow Automation**: Designing n8n workflows that connect APIs, sync databases, and eliminate manual processes—turning hours of work into one-click solutions.
+- **Workflow Automation**: Designing n8n workflows that connect APIs, sync databases, and eliminate manual processes-turning hours of work into one-click solutions.
 
-- **AI Integration**: Creating AI-powered tools using OpenAI and LangChain nodes in n8n—from Telegram bots that analyze meal photos to agents that route tasks automatically.
+- **AI Integration**: Creating AI-powered tools using OpenAI and LangChain nodes in n8n-from Telegram bots that analyze meal photos to agents that route tasks automatically.
 
 - **Backend & Databases**: Working with Supabase and Firebase for authentication, real-time data, and API integrations.
 
