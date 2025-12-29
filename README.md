@@ -1,25 +1,27 @@
-# Hi there, I'm Uros! 👋
-
-**Frontend Developer | Automation Engineer | n8n Enthusiast**
-
-Frontend developer working with React and TypeScript. I got into automation because it felt like the most practical skill I could add—why build an app if the processes around it are still manual? Now I create both the interfaces users see and the workflows running behind the scenes.
-
-## 🚀 Profile
-
-I've gone from troubleshooting appliances and SEO tools to building the automations that prevent issues before they happen. My customer support background taught me to understand what users actually need-my technical skills let me build it.
-Whether it's a React frontend, a Supabase backend, or an n8n workflow that syncs data and sends Slack updates automatically-I love turning "we do this manually every week" into a one-click solution.
+Here's the revised version with frontend as the primary focus:
 
 ---
 
-## 🏆 Key Strengths & Focus
+# Hi there, I'm Uros! 👋
 
-- **Frontend Development**: Building responsive web apps with React, TypeScript, and modern UI libraries like Tailwind CSS and Radix UI.
+**Frontend Developer | React & TypeScript Enthusiast**
 
-- **Workflow Automation**: Designing n8n workflows that connect APIs, sync databases, and eliminate manual processes-turning hours of work into one-click solutions.
+Frontend developer focused on building responsive, user-friendly web applications with React and TypeScript. I also enjoy automation and have hands-on experience with n8n—connecting APIs, syncing data, and eliminating manual work when the opportunity arises.
 
-- **AI Integration**: Creating AI-powered tools using OpenAI and LangChain nodes in n8n-from Telegram bots that analyze meal photos to agents that route tasks automatically.
+## 🚀 Profile
 
+I've gone from troubleshooting appliances and SEO tools to building web applications that solve real problems. My customer support background taught me to understand what users actually need—my technical skills let me build it.
+
+Whether it's a clean React frontend, a Supabase-powered backend, or a quick automation that saves the team hours every week—I focus on creating solutions that work.
+
+---
+
+## 🏆 Key Strengths
+
+- **Frontend Development**: Building responsive, accessible web apps with React, TypeScript, and modern UI libraries like Tailwind CSS and Radix UI.
+- **State Management & Architecture**: Experience with Redux, Context API, and structuring scalable React applications.
 - **Backend & Databases**: Working with Supabase and Firebase for authentication, real-time data, and API integrations.
+- **Automation (Side Skill)**: Designing n8n workflows that connect APIs and eliminate repetitive tasks—including AI-powered integrations with OpenAI and LangChain.
 
 ## 🛠️ Tech Stack
 
@@ -36,23 +38,22 @@ Whether it's a React frontend, a Supabase backend, or an n8n workflow that syncs
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Automation & AI**
+**Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
 
 ---
 
 ## 📌 Featured Projects
-
-### 🏋️ [Fitness Buddy](https://github.com/UrosZdravkovic/n8n-workflows/tree/main/fitness-agent)
-Multi-agent Telegram bot for workout & nutrition tracking. Send a photo of your meal → AI analyzes it → logs macros automatically. Built with n8n, Supabase, and OpenAI.
 
 ### 🍳 [Recipe Hub](https://github.com/UrosZdravkovic/recipe-hub)
 React + TypeScript app with Supabase auth, Redux state management, and a favorites system. Styled with Tailwind CSS and Radix UI.
 
 ### 📊 [Routine Tracker](https://github.com/UrosZdravkovic/routine-tracker)
 Minimalistic learning session tracker with data visualization, built with React, Firebase, and Recharts.
+
+### 🏋️ [Fitness Buddy](https://github.com/UrosZdravkovic/n8n-workflows/tree/main/fitness-agent)
+Side project: Multi-agent Telegram bot for workout & nutrition tracking. Send a photo of your meal → AI analyzes it → logs macros automatically. Built with n8n, Supabase, and OpenAI.
 
 ---
 
@@ -67,13 +68,14 @@ Minimalistic learning session tracker with data visualization, built with React,
 
 ## 🌱 Currently Learning
 
-- React & TypeScript
-- Advanced n8n workflows with AI agents
-- System architecture for scalable automations
+- Advanced React patterns & performance optimization
+- TypeScript best practices
+- Testing with Vitest and React Testing Library
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uro%C5%A1-zdravkovi%C4%87/)
+
 
