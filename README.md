@@ -6,13 +6,13 @@ Here's the revised version with frontend as the primary focus:
 
 **Frontend Developer | React & TypeScript Enthusiast**
 
-Frontend developer focused on building responsive, user-friendly web applications with React and TypeScript. I also enjoy automation and have hands-on experience with n8n—connecting APIs, syncing data, and eliminating manual work when the opportunity arises.
+Frontend developer focused on building responsive, user-friendly web applications with React and TypeScript. I also enjoy automation and have hands-on experience with n8n-connecting APIs, syncing data, and eliminating manual work when the opportunity arises.
 
 ## 🚀 Profile
 
-I've gone from troubleshooting appliances and SEO tools to building web applications that solve real problems. My customer support background taught me to understand what users actually need—my technical skills let me build it.
+I've gone from troubleshooting appliances and SEO tools to building web applications that solve real problems. My customer support background taught me to understand what users actually need-my technical skills let me build it.
 
-Whether it's a clean React frontend, a Supabase-powered backend, or a quick automation that saves the team hours every week—I focus on creating solutions that work.
+Whether it's a clean React frontend, a Supabase-powered backend, or a quick automation that saves the team hours every week-I focus on creating solutions that work.
 
 ---
 
