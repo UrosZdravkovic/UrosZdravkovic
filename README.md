@@ -21,7 +21,7 @@ Whether it's a clean React frontend, a Supabase-powered backend, or a quick auto
 - **Frontend Development**: Building responsive, accessible web apps with React, TypeScript, and modern UI libraries like Tailwind CSS and Radix UI.
 - **State Management & Architecture**: Experience with Redux, Context API, and structuring scalable React applications.
 - **Backend & Databases**: Working with Supabase and Firebase for authentication, real-time data, and API integrations.
-- **Automation (Side Skill)**: Designing n8n workflows that connect APIs and eliminate repetitive tasks—including AI-powered integrations with OpenAI and LangChain.
+- **Automation (Side Skill)**: Designing n8n workflows that connect APIs and eliminate repetitive tasks-including AI-powered integrations with OpenAI and LangChain.
 
 ## 🛠️ Tech Stack
 
@@ -57,20 +57,11 @@ Side project: Multi-agent Telegram bot for workout & nutrition tracking. Send a 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UrosZdravkovic&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrosZdravkovic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced React patterns & performance optimization
 - TypeScript best practices
-- Testing with Vitest and React Testing Library
+- Improving JavaScript knowledge, getting back to fundamentals
 
 ---
 
