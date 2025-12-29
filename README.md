@@ -45,7 +45,7 @@ Whether it's a clean React frontend, a Supabase-powered backend, or a quick auto
 ### 🍳 [Recipe Hub](https://github.com/UrosZdravkovic/recipe-hub)
 React + TypeScript app with Supabase auth, Redux state management, and a favorites system. Styled with Tailwind CSS and Radix UI.
 
-### 📊 [Routine Tracker](https://github.com/UrosZdravkovic/routine-tracker)
+### 📊 [Routine Tracker](https://github.com/UrosZdravkovic/tracker-app)
 Minimalistic learning session tracker with data visualization, built with React, Firebase, and Recharts.
 
 ### 🏋️ [Fitness Buddy](https://github.com/UrosZdravkovic/n8n-workflows/tree/main/fitness-agent)
