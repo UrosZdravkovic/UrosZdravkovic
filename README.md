@@ -1,7 +1,3 @@
-Here's the revised version with frontend as the primary focus:
-
----
-
 # Hi there, I'm Uros! 👋
 
 **Frontend Developer | React & TypeScript Enthusiast**
